@@ -1,0 +1,26 @@
+# ninja log v5
+2	212	7012139793754917	build.ninja	fc67c9ff915154c1
+11	2114	7012120196320821	ext/glfw/src/CMakeFiles/glfw.dir/context.c.obj	84721616e294555b
+137	1964	7012120195631307	ext/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	6ac282e7c80d7289
+180	2117	7012120196291541	ext/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	a8928e71f97d3254
+152	2068	7012120195943821	ext/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	ef69f9a4b9d49cff
+168	2088	7012120195979508	ext/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	ed254ba74ef9576b
+2613	2745	7012120203533142	ext/glfw/src/glfw3.lib	3ece69dcccc6888e
+108	2106	7012120196182695	ext/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	31bd41e97d94fdc5
+1	623	7012126837861022	Game_01/CMakeFiles/Game_01.dir/main.cpp.obj	31b81ad899f09b8b
+624	799	7012126839242062	Game_01/Game_01.exe	298c2565a1ce5587
+1	2026	7012120195739854	ext/glfw/src/CMakeFiles/glfw.dir/init.c.obj	457a59ef68c4cc84
+121	2108	7012120196018818	ext/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	6cf3979a85116488
+220	2109	7012120196038330	ext/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	d8b69b82936062d
+92	2122	7012120196621947	ext/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	647c9e39a41aae5c
+79	2110	7012120196281727	ext/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	bb8d0eee64eadc7d
+55	2111	7012120196271594	ext/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	963e52c4f02106e4
+22	2112	7012120196320821	ext/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	29c5dc7402a5563c
+34	2115	7012120195924317	ext/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	c250c6e79639c51a
+193	2116	7012120196513477	ext/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	19e7fa8d199cc031
+208	2118	7012120196009056	ext/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	990d0f41736b624b
+45	2120	7012120196602427	ext/glfw/src/CMakeFiles/glfw.dir/input.c.obj	48c9d17652f0e8ff
+68	2121	7012120196641463	ext/glfw/src/CMakeFiles/glfw.dir/window.c.obj	be42fead9d8857aa
+2028	2555	7012120201693470	ext/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	c28ceac6a6851e6c
+1967	2573	7012120201841039	ext/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	a7cff2d36a5f6d6a
+2069	2612	7012120202282433	ext/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	4356c2a7af08237f

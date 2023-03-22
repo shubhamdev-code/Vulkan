@@ -1,0 +1,12 @@
+C:/Users/Shubham/source/repos/Game_01/build/CMakeFiles/INSTALL.dir
+C:/Users/Shubham/source/repos/Game_01/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Shubham/source/repos/Game_01/build/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/CMakeFiles/INSTALL.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/CMakeFiles/uninstall.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/CMakeFiles/INSTALL.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/CMakeFiles/ALL_BUILD.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/src/CMakeFiles/glfw.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/src/CMakeFiles/update_mappings.dir
+C:/Users/Shubham/source/repos/Game_01/build/ext/glfw/src/CMakeFiles/INSTALL.dir
+C:/Users/Shubham/source/repos/Game_01/build/Game_01/CMakeFiles/Game_01.dir
+C:/Users/Shubham/source/repos/Game_01/build/Game_01/CMakeFiles/INSTALL.dir

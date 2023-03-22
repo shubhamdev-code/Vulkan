@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\build",
+    "\\build\\ext",
+    "\\build\\ext\\glfw",
+    "\\ext",
+    "\\ext\\glfw",
+    "\\Game_01",
+    "\\out"
+  ],
+  "SelectedNode": "\\Game_01\\main.cpp",
+  "PreviewInSolutionExplorer": false
+}

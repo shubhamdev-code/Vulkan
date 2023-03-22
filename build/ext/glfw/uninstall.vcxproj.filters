@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Shubham\source\repos\Game_01\build\CMakeFiles\a92ed272f56f865451197e7dbf4ba69e\uninstall.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+    <CustomBuild Include="C:\Users\Shubham\source\repos\Game_01\ext\glfw\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Shubham\source\repos\Game_01\build\ext\glfw\CMakeFiles\uninstall" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{941FE325-2C40-38A3-B128-4A24AD554529}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
